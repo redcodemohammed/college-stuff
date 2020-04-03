@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Average<college-stuff_c0a89658>",
+            "request": "launch",
+            "mainClass": "Average",
+            "projectName": "college-stuff_c0a89658"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BarCode<college-stuff_c0a89658>",
+            "request": "launch",
+            "mainClass": "BarCode",
+            "projectName": "college-stuff_c0a89658"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Calculator<college-stuff_c0a89658>",
+            "request": "launch",
+            "mainClass": "Calculator",
+            "projectName": "college-stuff_c0a89658"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Loops<college-stuff_c0a89658>",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "college-stuff_c0a89658"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Names<college-stuff_c0a89658>",
+            "request": "launch",
+            "mainClass": "Names",
+            "projectName": "college-stuff_c0a89658"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rec<college-stuff_c0a89658>",
+            "request": "launch",
+            "mainClass": "Rec",
+            "projectName": "college-stuff_c0a89658"
+        }
+    ]
+}
