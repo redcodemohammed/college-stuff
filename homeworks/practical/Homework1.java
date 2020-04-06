@@ -1,3 +1,5 @@
+package homeworks.practical;
+
 /**
  * Homework1
  */

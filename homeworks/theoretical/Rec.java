@@ -1,3 +1,5 @@
+package homeworks.theoretical;
+
 import java.util.Scanner;
 
 /**
