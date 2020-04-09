@@ -26,5 +26,6 @@ public class Login {
         else
             System.out.println("Error, you entered wrong password.");
 
+        input.close();
     }
 }
