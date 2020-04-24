@@ -12,45 +12,73 @@
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-Average<college-stuff_c0a89658>",
+            "name": "Debug (Launch)-Homework1<college-stuff_8c6b52d2>",
             "request": "launch",
-            "mainClass": "Average",
-            "projectName": "college-stuff_c0a89658"
+            "mainClass": "homeworks.practical.Homework1",
+            "projectName": "college-stuff_8c6b52d2"
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-BarCode<college-stuff_c0a89658>",
+            "name": "Debug (Launch)-Homework2<college-stuff_8c6b52d2>",
             "request": "launch",
-            "mainClass": "BarCode",
-            "projectName": "college-stuff_c0a89658"
+            "mainClass": "homeworks.practical.Homework2",
+            "projectName": "college-stuff_8c6b52d2"
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-Calculator<college-stuff_c0a89658>",
+            "name": "Debug (Launch)-Login<college-stuff_8c6b52d2>",
             "request": "launch",
-            "mainClass": "Calculator",
-            "projectName": "college-stuff_c0a89658"
+            "mainClass": "homeworks.practical.Login",
+            "projectName": "college-stuff_8c6b52d2"
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-Loops<college-stuff_c0a89658>",
+            "name": "Debug (Launch)-Average<college-stuff_8c6b52d2>",
             "request": "launch",
-            "mainClass": "Loops",
-            "projectName": "college-stuff_c0a89658"
+            "mainClass": "homeworks.theoretical.Average",
+            "projectName": "college-stuff_8c6b52d2"
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-Names<college-stuff_c0a89658>",
+            "name": "Debug (Launch)-BarCode<college-stuff_8c6b52d2>",
             "request": "launch",
-            "mainClass": "Names",
-            "projectName": "college-stuff_c0a89658"
+            "mainClass": "homeworks.theoretical.BarCode",
+            "projectName": "college-stuff_8c6b52d2"
         },
         {
             "type": "java",
-            "name": "Debug (Launch)-Rec<college-stuff_c0a89658>",
+            "name": "Debug (Launch)-Homework5<college-stuff_8c6b52d2>",
             "request": "launch",
-            "mainClass": "Rec",
-            "projectName": "college-stuff_c0a89658"
+            "mainClass": "homeworks.theoretical.Homework5",
+            "projectName": "college-stuff_8c6b52d2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rec<college-stuff_8c6b52d2>",
+            "request": "launch",
+            "mainClass": "homeworks.theoretical.Rec",
+            "projectName": "college-stuff_8c6b52d2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Calculator<college-stuff_8c6b52d2>",
+            "request": "launch",
+            "mainClass": "random_stuff.Calculator",
+            "projectName": "college-stuff_8c6b52d2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Challenge<college-stuff_8c6b52d2>",
+            "request": "launch",
+            "mainClass": "random_stuff.Challenge",
+            "projectName": "college-stuff_8c6b52d2"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Challenge2<college-stuff_8c6b52d2>",
+            "request": "launch",
+            "mainClass": "random_stuff.Challenge2",
+            "projectName": "college-stuff_8c6b52d2"
         }
     ]
 }
