@@ -14,7 +14,7 @@ public class Read_100_degrees {
         // this will keep track of the loops:
         float sum = 0;// add each new degree to this.
         int count = 0; // current loop.
-        int rounds = 4;// number of loops.
+        int rounds = 100;// number of loops.
 
         // Give the user some instructions:
         System.out.println("The degree should be withing the range 0-100.");
