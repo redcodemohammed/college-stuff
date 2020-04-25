@@ -3,9 +3,9 @@ package homeworks.theoretical.lec_6;
 import java.util.Scanner;
 
 /**
- * Main
+ * Read_30_numbers
  */
-public class Main {
+public class Read_30_numbers {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
