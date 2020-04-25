@@ -1,4 +1,4 @@
-package homeworks.theoretical;
+package homeworks.theoretical.lec_4;
 
 public class Homework5 {
 	public static void main(String[] args) {

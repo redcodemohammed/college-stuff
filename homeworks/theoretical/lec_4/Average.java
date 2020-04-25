@@ -1,4 +1,4 @@
-package homeworks.theoretical;
+package homeworks.theoretical.lec_4;
 
 import java.util.Scanner;
 
