@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Dialogs1",
+            "request": "launch",
+            "mainClass": "random_stuff.Dialogs1",
+            "projectName": "college-stuff_8c6b52d2"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
