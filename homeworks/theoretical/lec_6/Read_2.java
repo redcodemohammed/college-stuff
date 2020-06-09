@@ -21,7 +21,7 @@ public class Read_2 {
 
         // check the input:
         if (char1 == '+' && char2 == '*') {
-            // this will keep track of the loops:
+            // this will keep track of the loop:
             int sum = 0;// add each new degree to this.
             int mult = 1; // multiply in each round.
             int count = 0; // current loop.
